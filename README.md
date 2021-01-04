@@ -19,3 +19,5 @@ True Positives, True Negatives, False Positives, False Negatives
 
 
 Precision and Recall
+
+Confusion Matrix
